@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\namanbadkul\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1193368794.index
+\Assignment_1\src\main\java
+C:\Users\namanbadkul\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3925980430.index
+\springmnc-java-config-example\src\main\resources
+C:\Users\namanbadkul\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4134694693.index
+\our-web-app\src\main\resources

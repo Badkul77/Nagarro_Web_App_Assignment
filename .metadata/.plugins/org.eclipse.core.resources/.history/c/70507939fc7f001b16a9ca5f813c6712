@@ -1,0 +1,9 @@
+<html>
+<body>
+<form action="add">
+<p>Date Of Birth:<br><input type= "number"  onfocus="this.value=''" value="dfwf dvfv" name="t1"></p><br>
+<input type= "number" name="t2"><br>
+<button type="submit">Submit</button>
+</form>
+</body>
+</html>
